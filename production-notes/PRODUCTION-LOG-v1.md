@@ -97,3 +97,10 @@ Creation on GitHub follows on the Director's go.
   char/word counted with zero em dashes.
 
 ~C4Chaos / Fluffy (A Centaur Production)
+
+Repo live, 2026-11-20: created on GitHub (public) as
+c4chaos-io/centaur-beer-buddy-audiocast; the 31 text files
+pushed in one snapshot, then the Director uploaded the two
+binaries (splash v5 as assets/cbb-audiocast-splash-v1.jpg,
+player design still). Banner verified rendering on the
+README. The anthology now has its public home.
