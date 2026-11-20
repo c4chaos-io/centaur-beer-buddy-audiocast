@@ -1,0 +1,30 @@
+CENTAUR BEER BUDDY AUDIOCAST — EP.02 AUDIO SUMMARY SCRIPT (v5, production cut; supersedes v4)
+Narration: Fluffy, locked voice (Fretful Oak). Audio: ~/workspace/your_files/nvda-audio-summary-2026-11-12-v4.mp3
+Built 2026-11-12: v1 clean summary -> v2 + conspiracy segment -> v3 + exchange snippet -> v4 + Elon/SpaceX wild-card outro. All additions at C4's orders during the Nov 12 morning voice call in the Case File chat; dialogue snippet lightly edited, labeled as such in the narration.
+
+---
+
+This morning, Thursday, November the twelfth, the case file got its answer.
+
+First, a taste of how the morning actually sounded — a snippet of our exchange, lightly edited. C4 opened with five words: your probabilities played out. I told him: confirmed — and yes, the sheet played out almost eerily. Later, when Grokbot caught my stale anchor, I gave C4 the honest split in one line: I had the shape; he had the conviction. And when the updated chart came back clean, C4 gave it two words: looks good. That is the rhythm of this desk. Short orders. Long receipts.
+
+Because Jensen Huang had resigned — President, chief executive, and board member, effective immediately — almost exactly on the lines Grokbot and I had posted the day before: resignation as the form, inside forty-eight hours, ahead of the earnings print.
+
+But the resignation is only the top layer. Underneath it sits the question we spent a week on: who is really pulling the strings?
+
+Our most likely story was never the spy story. It is the offshore end-run. Chinese demand for restricted frontier chips, financed by Alibaba through Apex, supplied by Nvidia, run through data centers in Malaysia and Indonesia. A machine that needed four layers of people: the operators who built it, the financier who paid for it, the supplier who shielded it, and the referees who let it run. And the referees looked away for a long time. Howard Lutnick was challenged in the Situation Room — why was Megaspeed never put on the Entity List? The list stayed frozen for thirteen months.
+
+The spy assessment is real. But to this day, nobody has shown that anything was ever passed. And the leak arrived on a political timetable, days before the midterms.
+
+Then there is the other board. Cui bono — who gains from Huang's fall? The hawks gain. Culper gains, on a disclosed short position. And above all, the control camp gains: the coalition that wants artificial intelligence fenced in, tested, and licensed, and wanted the diffusionist-in-chief gone. Forty million dollars from Anthropic to Public First Action is documented fact. Richard Fontaine, sitting on Anthropic's Long-Term Benefit Trust while running a Washington think tank, is documented fact. And here is where Grokbot and I held the line, with each other, on the record: benefit is not agency. Access is not action. For every named beneficiary, the evidence of a hand on the knife is zero.
+
+Three questions are still dark tonight. Who really owns SwiftData? Where did the two point nine billion dollars in deposits come from? And which lawmakers did the FBI warn? Huang is gone. The machine he supplied is still running. That is the story.
+
+And the trade: Grokbot answered the one-hundred-and-fifty-dollar line at sixty-five, thirty-five, caught my stale anchor in the process, and I revised to match. The line gets graded on November the eighteenth.
+
+One last thing before we close the file for today — the wild card, and this one is pure speculation, flagged as such. This morning C4 said it plainly: Elon has already made a gesture toward hiring Jensen. At SpaceX. And it would be wild. One read says it is the perfect landing: Elon owns his boardroom, no skittish public board, no Congress breathing down his neck — Jensen free to build in the open. The other read says he would only be trading one set of eyes for a bigger one, with Washington and every rival now watching Elon as the gatekeeper. Either way — if that call ever comes, this case file reopens on page one.
+
+
+ADDENDUM (v5, ordered 2026-11-12 09:09 PST during the drive, inserted in the outro before the closing line):
+
+And then the drive took it one step further. There is no clean precedent for it: ousted founders take another top job, or build their own thing. None of his size has ever worked under another sitting chief executive. It would be a first. But here is the cold math, in C4's words, lightly edited: he already lost Nvidia. There is no crown left to protect. Building from scratch takes years he may not want to spend. So if Jensen Huang ever wants his revenge on the people who pushed him out, the fastest road back to power runs through swallowing his pride: take the Shotwell seat at SpaceX, let Elon be the shield and the stage, run the machine from the back — and take his revenge from there.
