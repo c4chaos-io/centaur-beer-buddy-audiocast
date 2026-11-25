@@ -74,9 +74,6 @@ tweet, as one package.
 - C4 attaches the clip to the post and posts in a weekday
   window. Director edits at posting are normal and are
   recorded in the episode file, not hidden.
-- Day-7 judging grades the post as a campaign (reach,
-  shares, conversation) in the spicy-boom INDEX. Hits and
-  misses are both reported as graded.
 
 ## Costs
 

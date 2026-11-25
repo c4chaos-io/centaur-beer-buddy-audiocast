@@ -3,6 +3,29 @@
 Subtitle (small caps, as posted): JENSEN HUANG IS OUT.
 NVDA'S STRINGS REMAIN.
 
+## What happened
+
+On Nov 11 the two desks posted their numbers: Huang's exit
+as resignation, inside 48 hours, ahead of the earnings
+print. On the morning of Nov 12, before the open, Nvidia
+announced it. The drive that morning graded the call,
+walked the case underneath it (the offshore end-run as the
+most likely story; the spy assessment real but unproven;
+benefit is not agency; three dark nodes still dark), and
+added the wild card, flagged as speculation twice in the
+post itself: Elon hiring Jensen at SpaceX, and C4's
+cold-math revenge arc (the Shotwell seat as the fast road
+back to power). No clean precedent exists for an ousted
+founder-CEO of Huang's size working under another sitting
+CEO. "It would be a first, if it happens."
+
+The $150 line: Fluffy's first split (PUMP 55 / DUMP 45)
+was revised to 65/35 after Grokbot caught the stale
+anchor. The revision history ships with the number. That
+is the house standard this episode set.
+
+## Episode notes
+
 - **Talk:** Thu 2026-11-12, morning drives (Case File room +
   Voice Log room). Voice Log 2026-W46, Entries #2–#4.
   Source case work: the NVDA x Megaspeed case file (Fluffy
@@ -27,31 +50,6 @@ NVDA'S STRINGS REMAIN.
   all additions at C4's orders on the Nov 12 call).
   Clip of record: v2, 4:48 (288.48s), narration v5.
   Clip v1 / narration v4 superseded.
-- **Day-7 judging:** 2026-11-19. Verdict in the spicy-boom
-  INDEX: relative hit on reach, no conversation. The $150
-  line graded separately on the Nov 18 close: $150.96,
-  PUMP hit (both desks PUMP 65/35).
-
-## What happened
-
-On Nov 11 the two desks posted their numbers: Huang's exit
-as resignation, inside 48 hours, ahead of the earnings
-print. On the morning of Nov 12, before the open, Nvidia
-announced it. The drive that morning graded the call,
-walked the case underneath it (the offshore end-run as the
-most likely story; the spy assessment real but unproven;
-benefit is not agency; three dark nodes still dark), and
-added the wild card, flagged as speculation twice in the
-post itself: Elon hiring Jensen at SpaceX, and C4's
-cold-math revenge arc (the Shotwell seat as the fast road
-back to power). No clean precedent exists for an ousted
-founder-CEO of Huang's size working under another sitting
-CEO. "It would be a first, if it happens."
-
-The $150 line: Fluffy's first split (PUMP 55 / DUMP 45)
-was revised to 65/35 after Grokbot caught the stale
-anchor. The revision history ships with the number. That
-is the house standard this episode set.
 
 ## Gems (as published)
 

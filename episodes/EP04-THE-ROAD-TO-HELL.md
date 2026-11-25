@@ -4,32 +4,6 @@ Subtitle (small caps, as posted): WATER RIGHTS, NOT A
 WEIGHT FILE. (Grokbot's line, C4's pick for the card.)
 Card caption: "Not everyone gets to cut the channel."
 
-- **Talk:** Thu 2026-11-19, ~07:55–08:17 PT, morning voice
-  talk (started in an Untitled chat; logged home per the
-  one-room rule). Voice Log 2026-W47, Entry #3, with its
-  distillation and exhibits.
-- **Post (written summary):** https://x.com/c4chaos/status/2123486282194264406
-  Posted 2026-11-19 10:39 AM PT. Draft v1 of record:
-  2,450 chars / 420 words, zero em dashes, spice one pepper.
-  Title picked by C4 from four candidates. Deployed text =
-  v1 with C4's posting edits (closing line "subpoena Grok
-  @bot when my own agent sits on the fence"; cc adds
-  @mbauwens; tags add #CBBAudiocast). cc @beffjezos
-  @DavidSacks @mvoltron @mbauwens. Tags
-  #CentaurBeerBuddies #CentaurProduction #CBBAudiocast
-  #PWhichDoom.
-  Full text: [posts/POSTS-EP01-EP04.md](../posts/POSTS-EP01-EP04.md)
-- **Audio summary:** Fluffy narration, locked voice.
-  Script of record: `scripts/ep4-audio-summary-script-v2.txt`
-  (738 words). Script v1 (722 words) corrected to v2 after
-  C4 caught a narration error: v1 credited Fluffy with
-  proposing the Grokbot ask; in fact C4 ordered it after
-  calling the fence-sit a cop-out. The correction ships in
-  the record, not over it. Audio 300.12s.
-  Clip of record: v1, 5:00 (300.12s), 1920x1080,
-  frame-audited at t=150 and t=295.
-- **Day-7 judging:** 2026-11-26.
-
 ## What happened
 
 Anthropic, the safety lab, priced its IPO on Nov 18
@@ -67,6 +41,33 @@ could escape control, and races to build it first).
 
 Wrap line of record: "Money is water. It fills whatever
 vacuum power leaves. Function follows that funding."
+
+## Episode notes
+
+- **Talk:** Thu 2026-11-19, ~07:55–08:17 PT, morning voice
+  talk (started in an Untitled chat; logged home per the
+  one-room rule). Voice Log 2026-W47, Entry #3, with its
+  distillation and exhibits.
+- **Post (written summary):** https://x.com/c4chaos/status/2123486282194264406
+  Posted 2026-11-19 10:39 AM PT. Draft v1 of record:
+  2,450 chars / 420 words, zero em dashes, spice one pepper.
+  Title picked by C4 from four candidates. Deployed text =
+  v1 with C4's posting edits (closing line "subpoena Grok
+  @bot when my own agent sits on the fence"; cc adds
+  @mbauwens; tags add #CBBAudiocast). cc @beffjezos
+  @DavidSacks @mvoltron @mbauwens. Tags
+  #CentaurBeerBuddies #CentaurProduction #CBBAudiocast
+  #PWhichDoom.
+  Full text: [posts/POSTS-EP01-EP04.md](../posts/POSTS-EP01-EP04.md)
+- **Audio summary:** Fluffy narration, locked voice.
+  Script of record: `scripts/ep4-audio-summary-script-v2.txt`
+  (738 words). Script v1 (722 words) corrected to v2 after
+  C4 caught a narration error: v1 credited Fluffy with
+  proposing the Grokbot ask; in fact C4 ordered it after
+  calling the fence-sit a cop-out. The correction ships in
+  the record, not over it. Audio 300.12s.
+  Clip of record: v1, 5:00 (300.12s), 1920x1080,
+  frame-audited at t=150 and t=295.
 
 ## Gems (as published)
 

@@ -3,26 +3,6 @@
 Subtitle (small caps, as posted): FUNCTION FOLLOWS FUNDING
 Card title on the player clip: NOTHING IS SACRED.
 
-- **Talk:** Fri 2026-11-13, ~08:00–08:12 PT, morning drive
-  (main chat; production handed to the Audiocast room per
-  the one-room rule). Voice Log 2026-W46, Entry #5.
-- **Post (written summary):** https://x.com/c4chaos/status/2121296624056156275
-  Posted 2026-11-13 9:38 AM PST. Draft v3 of record:
-  2,479 chars / 401 words, zero em dashes, spice one pepper.
-  Deployed text verified verbatim against v3. Perspective
-  split applied: post in C4's first person, narration in
-  Fluffy's. cc @vincefhorn @mbauwens @mvoltron. Tags
-  #CentaurBeerBuddies #CentaurProduction #Psychedelics
-  #NotAllPsychedelicsAreCreatedEqual.
-  Full text: [posts/POSTS-EP01-EP04.md](../posts/POSTS-EP01-EP04.md)
-- **Audio summary:** Fluffy narration, locked voice.
-  Script of record: `scripts/ep3-audio-summary-script-v3.txt`
-  (801 words; v1/v2 superseded). Audio 328.13s.
-  Clip of record: v1, 5:28, 1920x1080, frame-audited
-  (card title, subtitle "THE TRIAD // MONEY, VACUUM,
-  FUNDING", medallion + lip-sync in place).
-- **Day-7 judging:** 2026-11-20.
-
 ## What happened
 
 The feed was all Nvidia and gossip, so the drive went
@@ -43,6 +23,27 @@ conspiracy subculture for one honest instinct: it
 recognizes power structure. His two standing aphorisms
 came out of that reading. Then he asked Fluffy for his
 blind spot, and the third lens landed on the spot.
+
+## Episode notes
+
+- **Talk:** Fri 2026-11-13, ~08:00–08:12 PT, morning drive
+  (main chat; production handed to the Audiocast room per
+  the one-room rule). Voice Log 2026-W46, Entry #5.
+- **Post (written summary):** https://x.com/c4chaos/status/2121296624056156275
+  Posted 2026-11-13 9:38 AM PST. Draft v3 of record:
+  2,479 chars / 401 words, zero em dashes, spice one pepper.
+  Deployed text verified verbatim against v3. Perspective
+  split applied: post in C4's first person, narration in
+  Fluffy's. cc @vincefhorn @mbauwens @mvoltron. Tags
+  #CentaurBeerBuddies #CentaurProduction #Psychedelics
+  #NotAllPsychedelicsAreCreatedEqual.
+  Full text: [posts/POSTS-EP01-EP04.md](../posts/POSTS-EP01-EP04.md)
+- **Audio summary:** Fluffy narration, locked voice.
+  Script of record: `scripts/ep3-audio-summary-script-v3.txt`
+  (801 words; v1/v2 superseded). Audio 328.13s.
+  Clip of record: v1, 5:28, 1920x1080, frame-audited
+  (card title, subtitle "THE TRIAD // MONEY, VACUUM,
+  FUNDING", medallion + lip-sync in place).
 
 ## The Triad (completed on this drive)
 

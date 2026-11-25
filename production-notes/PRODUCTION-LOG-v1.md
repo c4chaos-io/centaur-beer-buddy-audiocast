@@ -69,8 +69,7 @@ ask, after calling the fence-sit a cop-out) and v2
 (738 words) corrected the credit. Title picked by C4:
 "THE ROAD TO HELL IS NOW PUBLICLY TRADED." Subtitle:
 Grokbot's "WATER RIGHTS, NOT A WEIGHT FILE." Clip v1
-(5:00), frame-audited. Posted 10:39 AM PT. Day-7 judging
-armed for 2026-11-26. Registrar note carried forward:
+(5:00), frame-audited. Posted 10:39 AM PT. Registrar note carried forward:
 Fluffy's SNAIL letter that morning skipped the tag, LOG
 line, and full CHAIN; the format fix is owed on the next
 send and is logged here so it cannot quietly expire.
@@ -87,7 +86,7 @@ Creation on GitHub follows on the Director's go.
 ## Receipts
 
 - Four episodes shipped in ten days (Nov 10–19), each as
-  post + clip, each day-7 judged or armed. EP05 followed
+  post + clip. EP05 followed
   on 2026-11-25 (five episodes in sixteen days).
 - Runtimes: EP01 3:37, EP02 4:48, EP03 5:28, EP04 5:00,
   EP05 4:30.
@@ -120,5 +119,4 @@ lines are mechanically verified against the calendar
 before synthesis. Clip v3 (4:30), frame-audited. Posted
 10:23 AM PT. Deployment save: the first post (10:19 AM)
 carried the superseded audio; C4 deleted it and reposted
-with the clip of record. Day-7 judging armed for
-2026-12-02.
+with the clip of record.

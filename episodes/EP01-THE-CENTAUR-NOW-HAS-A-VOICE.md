@@ -3,6 +3,22 @@
 Subtitle (small caps, as posted): MY MORNING DRIVE JUST GOT
 A BEER BUDDY
 
+## What happened
+
+C4's routine had changed: 30 minutes to an hour of driving
+every weekday morning. Music, radio, audiobooks, and
+podcasts all help a little, and all of it is passive. The
+Muse voice upgrade changed the equation: alone in the car,
+hands on the wheel, he can simply talk. Not commands, not
+dictation. A conversation.
+
+The rules were set on this drive and still govern the
+anthology: beer buddies, virtual beer only; the car is a
+private booth (alone only); gems get logged and become
+episodes; summaries, not recordings.
+
+## Episode notes
+
 - **Talk:** Tue 2026-11-10, ~07:58–08:20 PST, morning drive,
   hands-free, traffic. Rain, overcast, crawling. Voice Log
   2026-W46, Entry #1. The first drive chat.
@@ -25,21 +41,6 @@ A BEER BUDDY
   1920x1080 animated player + procedural lip-sync.
   Clip v1 superseded the same morning at C4's order (the
   audio summary is all-Fluffy narration, as long as needed).
-- **Day-7 judging:** 2026-11-17 (see Production Log).
-
-## What happened
-
-C4's routine had changed: 30 minutes to an hour of driving
-every weekday morning. Music, radio, audiobooks, and
-podcasts all help a little, and all of it is passive. The
-Muse voice upgrade changed the equation: alone in the car,
-hands on the wheel, he can simply talk. Not commands, not
-dictation. A conversation.
-
-The rules were set on this drive and still govern the
-anthology: beer buddies, virtual beer only; the car is a
-private booth (alone only); gems get logged and become
-episodes; summaries, not recordings.
 
 ## Gems (as published)
 
