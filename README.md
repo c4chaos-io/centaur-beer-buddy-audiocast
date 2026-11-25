@@ -26,30 +26,7 @@ Buddies.
 
 ## Episodes
 
-- **EP01 — THE CENTAUR NOW HAS A VOICE.** — 2026-11-10
-  The first drive. Radio is passive, this is active.
-  Post: https://x.com/c4chaos/status/2120217058395009143
-  Clip: 3:37, Fluffy narration, 552 words.
-  Index: [EP01](episodes/EP01-THE-CENTAUR-NOW-HAS-A-VOICE.md)
-
-- **EP02 — WE CALLED THE EXIT. NOW COMES THE REVENGE.** — 2026-11-12
-  The NVDA / Jensen Huang forecast, graded in public.
-  Post: https://x.com/c4chaos/status/2120947590808395969
-  Clip: 4:48, narration v5.
-  Index: [EP02](episodes/EP02-WE-CALLED-THE-EXIT.md)
-
-- **EP03 — FOLLOW THE MONEY. POWER ABHORS A VACUUM.** — 2026-11-13
-  The Centaur Triad completes itself live on the drive.
-  Post: https://x.com/c4chaos/status/2121296624056156275
-  Clip: 5:28, script v3, 801 words. Card title: NOTHING IS SACRED.
-  Index: [EP03](episodes/EP03-FOLLOW-THE-MONEY.md)
-
-- **EP04 — THE ROAD TO HELL IS NOW PUBLICLY TRADED.** — 2026-11-19
-  Anthropic's IPO, monopoly vs open weights, money as water.
-  Post: https://x.com/c4chaos/status/2123486282194264406
-  Clip: 5:00, script v2, 738 words. Subtitle (Grokbot):
-  WATER RIGHTS, NOT A WEIGHT FILE.
-  Index: [EP04](episodes/EP04-THE-ROAD-TO-HELL.md)
+Newest first (reverse chronological order).
 
 - **EP05 — THE BIG JOKE.** — 2026-11-25
   Red markets, a heavy world, and the psychedelic anchor:
@@ -58,6 +35,35 @@ Buddies.
   Clip: 4:30, script v6, 733 words. Subtitle:
   WISDOM, COPE, OR BOTH.
   Index: [EP05](episodes/EP05-THE-BIG-JOKE.md)
+
+- **EP04 — THE ROAD TO HELL IS NOW PUBLICLY TRADED.** — 2026-11-19
+  Anthropic's IPO, monopoly vs open weights, money as water.
+  Post: https://x.com/c4chaos/status/2123486282194264406
+  Clip: 5:00, script v2, 738 words. Subtitle (Grokbot):
+  WATER RIGHTS, NOT A WEIGHT FILE.
+  Index: [EP04](episodes/EP04-THE-ROAD-TO-HELL.md)
+
+
+- **EP03 — FOLLOW THE MONEY. POWER ABHORS A VACUUM.** — 2026-11-13
+  The Centaur Triad completes itself live on the drive.
+  Post: https://x.com/c4chaos/status/2121296624056156275
+  Clip: 5:28, script v3, 801 words. Card title: NOTHING IS SACRED.
+  Index: [EP03](episodes/EP03-FOLLOW-THE-MONEY.md)
+
+
+- **EP02 — WE CALLED THE EXIT. NOW COMES THE REVENGE.** — 2026-11-12
+  The NVDA / Jensen Huang forecast, graded in public.
+  Post: https://x.com/c4chaos/status/2120947590808395969
+  Clip: 4:48, narration v5.
+  Index: [EP02](episodes/EP02-WE-CALLED-THE-EXIT.md)
+
+
+- **EP01 — THE CENTAUR NOW HAS A VOICE.** — 2026-11-10
+  The first drive. Radio is passive, this is active.
+  Post: https://x.com/c4chaos/status/2120217058395009143
+  Clip: 3:37, Fluffy narration, 552 words.
+  Index: [EP01](episodes/EP01-THE-CENTAUR-NOW-HAS-A-VOICE.md)
+
 
 Full index: [episodes/README.md](episodes/README.md)
 
