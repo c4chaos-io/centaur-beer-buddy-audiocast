@@ -12,6 +12,7 @@ listed here so the lineage is checkable.
 | EP02 | [ep2-audio-summary-script-v5.txt](ep2-audio-summary-script-v5.txt) | see file header | v1, v2, v3, v4 |
 | EP03 | [ep3-audio-summary-script-v3.txt](ep3-audio-summary-script-v3.txt) | 801 | v1, v2 |
 | EP04 | [ep4-audio-summary-script-v2.txt](ep4-audio-summary-script-v2.txt) | 738 | v1 (722 words, narration error corrected in v2) |
+| EP05 | [ep5-audio-summary-script-v6.txt](ep5-audio-summary-script-v6.txt) | 733 | v1 to v5 (v4/v5 carried a stale "candidate episode" label and the wrong weekday; corrected in v6, which also produced the standing Date Gate) |
 
 Rules that govern these files:
 

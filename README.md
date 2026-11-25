@@ -51,6 +51,14 @@ Buddies.
   WATER RIGHTS, NOT A WEIGHT FILE.
   Index: [EP04](episodes/EP04-THE-ROAD-TO-HELL.md)
 
+- **EP05 — THE BIG JOKE.** — 2026-11-25
+  Red markets, a heavy world, and the psychedelic anchor:
+  one consciousness dreaming itself into billions.
+  Post: https://x.com/c4chaos/status/2125656519488487589
+  Clip: 4:30, script v6, 733 words. Subtitle:
+  WISDOM, COPE, OR BOTH.
+  Index: [EP05](episodes/EP05-THE-BIG-JOKE.md)
+
 Full index: [episodes/README.md](episodes/README.md)
 
 ## How an episode is made

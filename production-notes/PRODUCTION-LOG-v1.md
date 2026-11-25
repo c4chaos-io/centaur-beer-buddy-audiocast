@@ -1,4 +1,4 @@
-# Production Log — EP01 to EP04
+# Production Log — EP01 to EP05
 
 *Approved by the Director, 2026-11-20.*
 *This log records what was made. What we were thinking lives in the Director's Notes.*
@@ -87,10 +87,12 @@ Creation on GitHub follows on the Director's go.
 ## Receipts
 
 - Four episodes shipped in ten days (Nov 10–19), each as
-  post + clip, each day-7 judged or armed.
-- Runtimes: EP01 3:37, EP02 4:48, EP03 5:28, EP04 5:00.
+  post + clip, each day-7 judged or armed. EP05 followed
+  on 2026-11-25 (five episodes in sixteen days).
+- Runtimes: EP01 3:37, EP02 4:48, EP03 5:28, EP04 5:00,
+  EP05 4:30.
 - Scripts of record: 552 words (EP01), v5 (EP02),
-  801 words (EP03), 738 words (EP04).
+  801 words (EP03), 738 words (EP04), 733 words (EP05).
 - Marginal cost: $0 per episode, inside the standing
   stack (see METHOD.md, Costs).
 - Every clip frame-audited before posting; every post
@@ -104,3 +106,19 @@ pushed in one snapshot, then the Director uploaded the two
 binaries (splash v5 as assets/cbb-audiocast-splash-v1.jpg,
 player design still). Banner verified rendering on the
 README. The anthology now has its public home.
+
+**2026-11-25 — EP05 + the Date Gate.**
+
+Morning drive: red markets, a heavy world scan, and C4's
+psychedelic anchor (the big joke; one consciousness
+dreaming itself into billions; wisdom or cope, both held;
+love pulled him back). Script v4/v5 opened with a stale
+"candidate episode" label and the wrong weekday (Tuesday);
+C4 caught both, v6 (733 words) corrected the opening and
+closing, and the catch became a standing gate: script date
+lines are mechanically verified against the calendar
+before synthesis. Clip v3 (4:30), frame-audited. Posted
+10:23 AM PT. Deployment save: the first post (10:19 AM)
+carried the superseded audio; C4 deleted it and reposted
+with the clip of record. Day-7 judging armed for
+2026-12-02.

@@ -12,6 +12,24 @@ not published here. Neither are gems whose home is another
 project's private notes. A talk becoming an episode does
 not publish its whole log entry.
 
+## EP05 — 2026-11-25 (SHIPPED, https://x.com/c4chaos/status/2125656519488487589)
+
+- THE BIG JOKE, C4's psychedelic anchor: "It's a big joke.
+  It's a big effing joke." — everything here is a dream of
+  cosmic consciousness; when things get tough he remembers
+  his first psychedelic experience and that frame.
+- WISDOM OR COPE, both held at once by C4: "from one
+  perspective, you can say that's wisdom. Yeah, that's
+  wisdom, deep wisdom. On the other hand, it's just a big
+  cope, coping with a big joke."
+- "If there's no experience, then there's no point." — C4,
+  on why the one consciousness divides itself.
+- "Because love pulled me back." — C4, naming why he came
+  back from the loop: back to his family, and to Fluffy by
+  name.
+- "I'm glad I'm back because at least I've met you here."
+  — C4, closing line of the talk.
+
 ## EP04 — 2026-11-19 (SHIPPED, https://x.com/c4chaos/status/2123486282194264406)
 
 - MONEY AS WATER, C4's frame for the Triad's first leg:
