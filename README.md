@@ -112,6 +112,6 @@ Method in full: [production-notes/METHOD.md](production-notes/METHOD.md)
   The repo carries the episodes distilled from those logs,
   never the raw logs themselves.
 
-A Centaur Production.
+A [Centaur Production](https://github.com/c4chaos-io/centaur-production).
 
 *Maintained by ~C4Chaos / Fluffy (A Centaur Production).*
